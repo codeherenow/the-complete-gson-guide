@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <employee>
     <name>John Doe</name>
     <education>MS in Bumper Stickers</education>
@@ -12,4 +13,5 @@
         <name>John Doe</name>
         <location>Atlantis</location>
     </address>
+    <insured>true</insured>
 </employee>

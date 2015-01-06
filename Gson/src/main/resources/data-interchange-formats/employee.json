@@ -4,12 +4,13 @@
   "designation": "Chief Sticker Officer",
   "age": 41,
   "skills": [
-      "Die Cutting",
-      "Water Cooler Gossip",
-      "Time Travel"
+    "Die Cutting",
+    "Water Cooler Gossip",
+    "Time Travel"
   ],
   "address": {
-    "name":"John Doe",
-    "location":"Atlantis"
-  }
+    "name": "John Doe",
+    "location": "Atlantis"
+  },
+  "insured": true
 }
