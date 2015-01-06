@@ -1,0 +1,15 @@
+{
+  "name": "John Doe",
+  "education": "MS in Bumper Stickers",
+  "designation": "Chief Sticker Officer",
+  "age": 41,
+  "skills": [
+      "Die Cutting",
+      "Water Cooler Gossip",
+      "Time Travel"
+  ],
+  "address": {
+    "name":"John Doe",
+    "location":"Atlantis"
+  }
+}

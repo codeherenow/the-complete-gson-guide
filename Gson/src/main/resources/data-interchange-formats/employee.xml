@@ -1,0 +1,15 @@
+<employee>
+    <name>John Doe</name>
+    <education>MS in Bumper Stickers</education>
+    <designation>Chief Sticker Officer</designation>
+    <age>41</age>
+    <skills>
+        <value>Die Cutting</value>
+        <value>Water Cooler Gossip</value>
+        <value>Time Travel</value>
+    </skills>
+    <address>
+        <name>John Doe</name>
+        <location>Atlantis</location>
+    </address>
+</employee>
