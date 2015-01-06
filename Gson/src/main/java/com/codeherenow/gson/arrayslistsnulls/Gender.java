@@ -1,4 +1,4 @@
-package com.codeherenow.gson.arrayslists;
+package com.codeherenow.gson.arrayslistsnulls;
 
 /**
  * @author Ragunath Jawahar <www.codeherenow.com>

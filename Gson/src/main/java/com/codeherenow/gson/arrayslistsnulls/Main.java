@@ -1,4 +1,4 @@
-package com.codeherenow.gson.arrayslists;
+package com.codeherenow.gson.arrayslistsnulls;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
@@ -24,7 +24,10 @@ public class Main {
         // Associates
         batman.setAssociates(getAssociates());
 
-        Gson gson = new GsonBuilder().setPrettyPrinting().create();
+        Gson gson = new GsonBuilder()
+                .setPrettyPrinting()
+                .serializeNulls()
+                .create();
         System.out.println(gson.toJson(batman));
     }
 

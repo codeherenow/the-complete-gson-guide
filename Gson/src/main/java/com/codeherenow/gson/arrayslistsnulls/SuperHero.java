@@ -1,4 +1,4 @@
-package com.codeherenow.gson.arrayslists;
+package com.codeherenow.gson.arrayslistsnulls;
 
 import java.util.Arrays;
 import java.util.List;
